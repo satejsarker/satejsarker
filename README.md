@@ -24,7 +24,7 @@
   - firebase, MYSQL
   -  Cloudforamtion
   - Terraform
-### About ME 🤔
+### About ME 🤔(https://bold.pro/my/satej-sarker-230811005009/204)
 
 - 🔭 I’m currently working on Cool ML Project ❤️
 - 🌱 I’m currently learning ML & Generative AI
