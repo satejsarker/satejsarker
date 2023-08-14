@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋 **[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='18'>](https://www.linkedin.com/in/https://www.linkedin.com/in/satejsarker//)**
 - I am Satej , but its 😄 Pronouns: Sotej
 - Experienced Backend Software Engineer | 8+ Years of Expertise | AWS Cloud Solutions | CI/CD  | Python | Node JS | TypeScript | PHP| ML
-
-**[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/satejsarker//)**
 
 ## Skills and Experience
   - JavaScript, Python
