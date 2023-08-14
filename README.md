@@ -29,7 +29,7 @@
 - 🔭 I’m currently working on Cool ML Project ❤️
 - 🌱 I’m currently learning ML & Generative AI
 - 👯 I’m looking to collaborate on exciting projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with some exciting apps 
 - 💬 Ask me about ...
 - 📫 How to reach me: **satejall@gmail.com**
 - ⚡ Fun fact: i love music and fishing
