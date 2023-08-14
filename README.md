@@ -27,7 +27,7 @@
   - firebase, MYSQL
   -  Cloudforamtion
   - Terraform
-### [About ME 🤔](https://bold.pro/my/satej-sarker-230811005009/204) **[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/https://www.linkedin.com/in/satejsarker//)**
+### [About ME 🤔](https://bold.pro/my/satej-sarker-230811005009) **[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/https://www.linkedin.com/in/satejsarker//)**
 
 - 🔭 I’m currently working on Cool ML Project ❤️
 - 🌱 I’m currently learning ML & Generative AI
