@@ -1,4 +1,5 @@
-### Hi there 👋 **[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='18'>](https://www.linkedin.com/in/https://www.linkedin.com/in/satejsarker//)**
+### Hi there 👋 
+<img src='https://www.digitalocean.com/_next/static/media/intro-to-cloud.d49bc5f7.jpeg'>
 - I am Satej , but its 😄 Pronouns: Sotej
 - Experienced Backend Software Engineer | 8+ Years of Expertise | AWS Cloud Solutions | CI/CD  | Python | Node JS | TypeScript | PHP| ML
 
@@ -24,7 +25,7 @@
   - firebase, MYSQL
   -  Cloudforamtion
   - Terraform
-### [About ME 🤔](https://bold.pro/my/satej-sarker-230811005009/204)
+### [About ME 🤔](https://bold.pro/my/satej-sarker-230811005009/204) **[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/https://www.linkedin.com/in/satejsarker//)**
 
 - 🔭 I’m currently working on Cool ML Project ❤️
 - 🌱 I’m currently learning ML & Generative AI
