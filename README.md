@@ -3,7 +3,7 @@
 
 - I am Satej , but its 😄 Pronouns: Sotej
 
-- Experienced Backend Software Engineer | 8+ Years of Expertise | AWS Cloud Solutions | CI/CD  | Python | Node JS | TypeScript | PHP| ML**
+- Experienced Backend Software Engineer | 8+ Years of Expertise | AWS Cloud Solutions | CI/CD  | Python | Node JS | TypeScript | PHP| ML
 
 ## Skills and Experience
   - JavaScript, Python
