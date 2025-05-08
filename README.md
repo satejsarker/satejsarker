@@ -3,7 +3,7 @@
 
 - I am Satej , but its 😄 Pronouns: Sotej
 
-- Experienced Backend Software Engineer | 8+ Years of Expertise | AWS Cloud Solutions | CI/CD  | Python | Node JS | TypeScript | PHP| ML
+- Experienced Backend Software Engineer | 11+ Years of Expertise | AWS Cloud Solutions | CI/CD  | Python | Node JS | TypeScript | PHP| ML
 
 ## Skills and Experience
   - JavaScript, Python
@@ -29,7 +29,7 @@
   - Terraform
 ### [About ME 🤔](https://bold.pro/my/satej-sarker-230811005009) **[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/satejsarker/)**
 
-- 🔭 I’m currently working on Cool ML Project ❤️
+- 🔭 I’m currently working on Cool ML Project and mobile application  ❤️
 - 🌱 I’m currently learning ML & Generative AI
 - 👯 I’m looking to collaborate on exciting projects
 - 🤔 I’m looking for help with some exciting apps 
